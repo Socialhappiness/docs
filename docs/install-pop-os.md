@@ -51,10 +51,11 @@ Once you select the flash drive and it boots from the Pop!\_OS live image (cool 
 
 ![Try or Install Pop!\_OS](/images/install-pop-os/selected.png)
 
-Once the flash drives boots, you will be at the Pop!\_OS desktop! You can use the operating system as you normally would now. Because it is running from the flash drive performance may be slower and if you reboot back into the flash drive at this point, you'll lose anything you've changed while running in this "live session".
+Once the flash drives boots, you will be at the Pop!\_OS desktop! This is a "live session" of Pop!\_OS which means you haven't installed it on your computer yet. You can use the operating system as you normally would, but because it is running from the flash drive performance may be slower and if you reboot back into the flash drive at this point, you'll lose anything you've changed while running in this "live session".
 
 ![Install Pop!\_OS Icon](/images/install-pop-os/pop-live-desktop.jpg)
 
+To install Pop!\_OS instead of running in a live session, click the icon on the top left of your desktop that says Install Pop_OS". The installer will begin to walk you through the options to install Pop!\_OS.
 First we have to select the language we want to use:
 
 ![Select Language](/images/install-pop-os/select-language-pop.jpg)
